@@ -7,16 +7,16 @@
 */
 
 module.exports = {
-  title: "Hiking & Camping Log",
+  title: "Terminal - roon.ninja",
   url: "https://log.chriscollins.me", // Don't end with a slash /
-  description: "Personal Hiking Log",
+  description: "My ArchLinux daily terminal log",
   copyright: {
-    from: "2003",
-    name: "Chris Collins"
+    from: "2019",
+    name: "Roni Ardiyanto"
   },
   social_meta: {
-    twitter: "@chrisssycollins",
-    instagram: "scottishstoater",
+    twitter: "@roniardiyanto_",
+    instagram: "membias",
     featured_image: "/assets/images/featured_image.jpg"
   },
   ENV: process.env.ELEVENTY_ENV
